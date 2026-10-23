@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>stellar-relativity · our neighbourhood, in spacetime</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🌌 stellar&#8209;relativity</h1>
+    <p class="sub">The nearest stars to Earth, and what relativity does to the trip.</p>
+  </header>
+
+  <section class="controls">
+    <label for="speed">Cruise speed: <strong id="speedLabel">90%</strong> of light speed</label>
+    <input id="speed" type="range" min="1" max="99" value="90" />
+  </section>
+
+  <main>
+    <canvas id="sky" width="640" height="640" aria-label="top-down map of nearby stars"></canvas>
+    <div class="panel">
+      <table id="starTable">
+        <thead>
+          <tr>
+            <th>Star</th>
+            <th>Dist (ly)</th>
+            <th>Earth trip (yr)</th>
+            <th>Your trip (yr)</th>
+            <th>Years saved</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <p>Sun at the centre. Dot size &amp; brightness encode distance; the ring is 25 ly.
+       Trip times assume constant-velocity cruising. Data: real nearby-star catalog.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
