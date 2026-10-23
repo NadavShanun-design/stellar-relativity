@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "stellar-relativity"
+abstract: >-
+  Relating the nearest star systems to Earth through special relativity:
+  light-travel time, time dilation, relativistic travel, Doppler shift,
+  aberration, energy cost, and 3D geometry over a real nearby-star catalog.
+authors:
+  - family-names: Shanun
+    given-names: Nadav
+repository-code: "https://github.com/NadavShanun-design/stellar-relativity"
+license: MIT
+keywords:
+  - astronomy
+  - special-relativity
+  - time-dilation
+  - stars
