@@ -1,0 +1,2 @@
+# Development dependencies (the package itself has no runtime dependencies).
+pytest>=7.0
