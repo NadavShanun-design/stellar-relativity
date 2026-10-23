@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stellar-relativity"
+version = "0.1.0"
+description = "How the nearest star systems relate to Earth through special relativity."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Nadav Shanun" }]
+keywords = ["astronomy", "relativity", "physics", "stars", "time-dilation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Astronomy",
+]
+
+[project.scripts]
+stellar-relativity = "stellar_relativity.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/NadavShanun-design/stellar-relativity"
+
+[tool.setuptools]
+packages = ["stellar_relativity"]
+
+[tool.setuptools.package-data]
+stellar_relativity = ["../data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
