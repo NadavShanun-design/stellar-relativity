@@ -1,0 +1,23 @@
+{
+  "name": "Lalande 21185",
+  "spectral_type": "M2.0V",
+  "constellation": "Ursa Major",
+  "apparent_magnitude": 7.52,
+  "distance_ly": 8.307,
+  "distance_pc": 2.5469377781765687,
+  "position_ly": {
+    "x": -6.518616619321102,
+    "y": 1.6453483002583205,
+    "z": 4.879212573884007
+  },
+  "light_travel_years": 8.307,
+  "light_departed_year": 2017.693,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 9.23,
+    "proper_time_years": 4.023263724888041,
+    "years_saved": 5.206736275111959
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
