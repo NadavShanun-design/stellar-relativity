@@ -1,0 +1,23 @@
+{
+  "name": "Wolf 359",
+  "spectral_type": "M6.0V",
+  "constellation": "Leo",
+  "apparent_magnitude": 13.51,
+  "distance_ly": 7.856,
+  "distance_pc": 2.4086605495792854,
+  "position_ly": {
+    "x": -7.500900883023852,
+    "y": 2.1290467994742235,
+    "z": 0.9593652425956185
+  },
+  "light_travel_years": 7.856,
+  "light_departed_year": 2018.144,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 8.72888888888889,
+    "proper_time_years": 3.8048344556061697,
+    "years_saved": 4.92405443328272
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
