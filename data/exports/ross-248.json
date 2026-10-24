@@ -1,0 +1,23 @@
+{
+  "name": "Ross 248",
+  "spectral_type": "M5.5V",
+  "constellation": "Andromeda",
+  "apparent_magnitude": 12.29,
+  "distance_ly": 10.3,
+  "distance_pc": 3.157994355991171,
+  "position_ly": {
+    "x": 7.3750977674354,
+    "y": -0.421564857919807,
+    "z": 7.177758423863014
+  },
+  "light_travel_years": 10.3,
+  "light_departed_year": 2015.7,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 11.444444444444445,
+    "proper_time_years": 4.988517679829881,
+    "years_saved": 6.4559267646145635
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
