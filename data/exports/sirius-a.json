@@ -1,0 +1,23 @@
+{
+  "name": "Sirius A",
+  "spectral_type": "A1V",
+  "constellation": "Canis Major",
+  "apparent_magnitude": -1.46,
+  "distance_ly": 8.659,
+  "distance_pc": 2.6548614687890826,
+  "position_ly": {
+    "x": -1.6232238840082842,
+    "y": 8.132675493503582,
+    "z": -2.4905851801838335
+  },
+  "light_travel_years": 8.659,
+  "light_departed_year": 2017.341,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 9.621111111111112,
+    "proper_time_years": 4.193745105790966,
+    "years_saved": 5.427366005320146
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
