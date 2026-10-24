@@ -1,0 +1,23 @@
+{
+  "name": "Epsilon Eridani",
+  "spectral_type": "K2V",
+  "constellation": "Eridanus",
+  "apparent_magnitude": 3.73,
+  "distance_ly": 10.489,
+  "distance_pc": 3.2159420194166404,
+  "position_ly": {
+    "x": 6.194202343663274,
+    "y": 8.287346828294543,
+    "z": -1.7236185405456688
+  },
+  "light_travel_years": 10.489,
+  "light_departed_year": 2015.511,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 11.654444444444445,
+    "proper_time_years": 5.080054557644236,
+    "years_saved": 6.574389886800209
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
