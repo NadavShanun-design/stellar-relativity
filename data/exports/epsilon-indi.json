@@ -1,0 +1,23 @@
+{
+  "name": "Epsilon Indi",
+  "spectral_type": "K5V",
+  "constellation": "Indus",
+  "apparent_magnitude": 4.69,
+  "distance_ly": 11.867,
+  "distance_pc": 3.6384387400531293,
+  "position_ly": {
+    "x": 5.6611428884184845,
+    "y": -3.1947734935837833,
+    "z": -9.928271376307324
+  },
+  "light_travel_years": 11.867,
+  "light_departed_year": 2014.133,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 13.185555555555556,
+    "proper_time_years": 5.747450418110796,
+    "years_saved": 7.43810513744476
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
