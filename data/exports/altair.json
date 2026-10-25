@@ -1,0 +1,23 @@
+{
+  "name": "Altair",
+  "spectral_type": "A7V",
+  "constellation": "Aquila",
+  "apparent_magnitude": 0.76,
+  "distance_ly": 16.73,
+  "distance_pc": 5.129441318032262,
+  "position_ly": {
+    "x": 7.6828163381515155,
+    "y": -14.63609130839335,
+    "z": 2.579159616348865
+  },
+  "light_travel_years": 16.73,
+  "light_departed_year": 2009.27,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 18.58888888888889,
+    "proper_time_years": 8.102708813937273,
+    "years_saved": 10.486180074951616
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
