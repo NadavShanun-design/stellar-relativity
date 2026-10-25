@@ -1,0 +1,23 @@
+{
+  "name": "Ross 128",
+  "spectral_type": "M4.0V",
+  "constellation": "Virgo",
+  "apparent_magnitude": 11.13,
+  "distance_ly": 11.01,
+  "distance_pc": 3.375681345578912,
+  "position_ly": {
+    "x": -10.993493139079316,
+    "y": 0.5824939425995213,
+    "z": 0.1546266725078233
+  },
+  "light_travel_years": 11.01,
+  "light_departed_year": 2014.99,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 12.233333333333333,
+    "proper_time_years": 5.332386374264757,
+    "years_saved": 6.900946959068576
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
