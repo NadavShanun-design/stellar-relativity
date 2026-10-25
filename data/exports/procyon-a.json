@@ -1,0 +1,23 @@
+{
+  "name": "Procyon A",
+  "spectral_type": "F5IV-V",
+  "constellation": "Canis Minor",
+  "apparent_magnitude": 0.34,
+  "distance_ly": 11.46,
+  "distance_pc": 3.51365197278241,
+  "position_ly": {
+    "x": -4.791466849190369,
+    "y": 10.357812694806503,
+    "z": 1.0436290588206965
+  },
+  "light_travel_years": 11.46,
+  "light_departed_year": 2014.54,
+  "travel": {
+    "beta": 0.9,
+    "gamma": 2.294157338705618,
+    "earth_time_years": 12.733333333333334,
+    "proper_time_years": 5.55033132144179,
+    "years_saved": 7.183002011891544
+  },
+  "approach_blueshift_z": -0.7705842661294382
+}
