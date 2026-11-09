@@ -3,7 +3,9 @@ name: CI
 on:
   push:
     branches: [main]
+    paths-ignore: ['data/hyg-brightest.csv']
   pull_request:
+    paths-ignore: ['data/hyg-brightest.csv']
 
 jobs:
   test:
