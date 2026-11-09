@@ -7,7 +7,7 @@ name = "stellar-relativity"
 version = "0.1.0"
 description = "How the nearest star systems relate to Earth through special relativity."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Nadav Shanun" }]
 keywords = ["astronomy", "relativity", "physics", "stars", "time-dilation"]

@@ -3,6 +3,14 @@
 All notable changes to this project are documented here. The project was built
 incrementally, one feature per pull request.
 
+## [Unreleased]
+
+### Changed
+- CI now tests Python 3.10, 3.12 and 3.13, and `requires-python` is `>=3.10`. Python 3.9 is end of life and the current Ubuntu runner no longer provides it.
+
+### Added
+- Brightest-star catalog (`data/hyg-brightest.csv`) from HYG v4.1, CC BY-SA 4.0.
+
 ## [0.1.0]
 
 ### Added
